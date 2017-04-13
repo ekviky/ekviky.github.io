@@ -1,0 +1,17 @@
+---
+layout: default
+title: About ekviky
+---
+
+
+	<div class="about">
+		<h1>About</h1>
+		<p>My main research interest is to understand the impact of structural variation (insertions, deletions, transposable elements, large rearrangements, etc.) on genomes and phenotypes.<p>
+		<p>Transposable elements (TEs) are ubiquitous in the human genome and potentially have a great impact on gene expression (via disruption of exons and/or splice signals, donation of novel transcription start sites), yet their contribution to disease is poorly understood. With Gerton Lunter, I have developed a high-throughput molecular and computational genomics approach to detect TEs in whole genome sequencing (WGS) data. In collaboration with clinical researchers at the WTCHG, we have applied these tools to WGS of individuals with clinical phenotypes spanning a wide range of disorders, to help find potential causal variants and to illuminate the contribution of TEs to human disease.<p> 
+
+		<ul class="contacts">
+			<li><a href="#">@TwitterHandle</a></li>
+			<li><a href="#">Your Departmental Webpage</a></li>
+			<li><a href="#">Another site you want to link to</a></li>
+			</ul>
+	</div>
