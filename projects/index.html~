@@ -6,13 +6,16 @@ title: Projects
 
 	<div class="projects">
 		<h1>Projects</h1>
-		<p>My main research interest is to understand the impact of structural variation (insertions, deletions, transposable elements, large rearrangements, etc.) on genomes and phenotypes.<p>
-		<li><h2>Viruses</h2><li>
-		<li><h2>Clinical NGS tools</h2><li>
-		<li><h2>TEs</h2></li>
-		<p>Transposable elements (TEs) are ubiquitous in the human genome and potentially have a great impact on gene expression (via disruption of exons and/or splice signals, donation of novel transcription start sites), yet their contribution to disease is poorly understood. With  <a href="http://www.well.ox.ac.uk/gerton-lunter#research">Gerton Lunter</a>, I have developed a high-throughput molecular and computational genomics approach to detect TEs in whole genome sequencing (WGS) data. In collaboration with clinical researchers at the WTCHG, we have applied these tools to WGS of individuals with clinical phenotypes spanning a wide range of disorders, to help find potential causal variants and to illuminate the contribution of TEs to human disease.<p> 
+		<p>My main research interest is to understand the impact of structural variation (insertions, deletions, transposable elements, large rearrangements, etc.) on genomes and phenotypes. To do so, I have built computational tools and pipelines to interrogate whole genome sequence data for signatures of the who, what, when, where, why and how. Below I outline previous and ongoing projects including open-source bioinformatics tools and collaborations.<p>
+		<ol>
+			<h2><li>TEs</li></h2>
+			<p>Transposable elements (TEs) are ubiquitous in the human genome and potentially have a great impact on gene expression (via disruption of exons and/or splice signals, donation of novel transcription start sites), yet their contribution to disease is poorly understood. With  <a href="http://www.well.ox.ac.uk/gerton-lunter#research">Gerton Lunter</a>, I have developed a high-throughput molecular and computational genomics approach to detect TEs in whole genome sequencing (WGS) data. In collaboration with clinical researchers at the WTCHG, we have applied these tools to WGS of individuals with clinical phenotypes spanning a wide range of disorders, to help find potential causal variants and to illuminate the contribution of TEs to human disease.<p> 
 
-		<li><h2>Small indels</h2></li>
+			<h2><li>Clinical NGS tools</li></h2>
+			<h2><li>Small indels</li></h2>
+			<h2><li>Viruses</li></h2>
+		</ol>
+		<h2>Publications</h2>
 		<ul class="contacts">
 			<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=Kvikstad+E">pubmed</a></li>
 			<li><a href="https://scholar.google.co.uk/citations?user=uMVdpNsAAAAJ&hl=en&oi=ao">Google Scholar</a></li>
