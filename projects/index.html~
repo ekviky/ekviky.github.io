@@ -14,7 +14,7 @@ title: ekviky Projects
 			<h2><li>Clinical NGS tools</li></h2>
 			<p>Some scripts and pipelines useful for clinical WGS<p>
 			<h2><li>Small indels</li></h2>
-			<p> Insertions and deletions (collectively "indels") have played a major role in the evolution of genomes. Not just nuisance events, we now recognize that indels have shaped and been shaped by regional differences in genomic landscape features. Patterns of indel mutation and fixation dynamics can provide clues to the evolution of genome architecture, and the underlying sources of population-scale variation.<p> 
+			<p> Insertions and deletions (collectively "indels") have played a major role in the evolution of genomes. Not just nuisance events, we now recognize that indels have shaped and been shaped by regional differences in <a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030176">genomic landscape features</a>. Indel mutation rates are <a href="#">context dependent</a> and highly variable. Patterns of indel mutation and fixation dynamics provide clues to <a href="https://academic.oup.com/mbe/article-lookup/doi/10.1093/molbev/mst185">cryptic indel hotspots</a> that mimic signatures of natural selection. and the underlying sources of population-scale variation.<p> 
 			<p>With <a href="http://www.bx.psu.edu/makova_lab/">Kateryna Makova</a> at Penn State University, we developed <a href="https://usegalaxy.org/">software</a> to identify and polarize indel mutations in multiple-species alignments.<p> 
 			<h2><li>Viruses</li></h2>
 		</ol>
