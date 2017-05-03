@@ -29,7 +29,7 @@ title: ekviky CV
 		<li>
 			<a
 		           href="{{ p.url }}"
-		           {% if p.url == post.url %}
+		           {% if p.url == page.url %}
 		           class="active"
 		           {% endif %}
 			   >{{ p.title }}</a>
