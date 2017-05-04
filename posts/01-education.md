@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: post
 title: Education
-permalink: education/
+permalink: /education/
 ---
 
 ## Education
