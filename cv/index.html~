@@ -24,18 +24,7 @@ title: ekviky CV
 		<h2>Teaching Experience</h2>
 		<h2>Skills</h2>
 
-		<ul>
-		{% for p in site.posts %}
-		<li>
-			<a
-		           href="{{ p.url }}"
-		           {% if p.url == post.url %}
-		           class="active"
-		           {% endif %}
-			   >{{ p.title }}</a>
-		</li>
-		{% endfor %}
-		</ul>
+		<h3 class="post-title"><a href="/01-education/">{{post.title}}</a></h3>
 
 
 	</div>
