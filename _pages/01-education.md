@@ -4,7 +4,7 @@ title: ekviky Education
 permalink: /cv/education/
 ---
 
-## Education
+# Education
 
 2003-2009
 >>**PHD, Genetics**  
