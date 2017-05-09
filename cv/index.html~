@@ -15,7 +15,6 @@ title: ekviky CV
 		<span class="obfuscate">youremailaddress@email.com</span>
 		</address>
 
-		<h2>Education</h2>
 		<h2>Research Experience</h2>	
 		<h2>Publications</h2>
 		<h2>Grants and Fellowships</h2>
@@ -24,7 +23,13 @@ title: ekviky CV
 		<h2>Teaching Experience</h2>
 		<h2>Skills</h2>
 
-		<a href="/cv/01-education">{{page.title}}</a>
+		<h2><a href="/cv/education">Education</a></h2>
+		<h2><a href="/cv/res_experience/">Research Experience</a></h2>
+		<h2><a href="/cv/publications">Publications</a></h2>
+		<h2><a href="/cv/grants">Grants and Fellowships</a></h2>
+		<h2><a href="/cv/presentations">Presentations</a></h2>
+		<h2><a href="/cv/teach_experience">Teaching Experience</a></h2>
+		<h2><a href="/cv/skills">Skills</a></h2>
 
 
 	</div>
