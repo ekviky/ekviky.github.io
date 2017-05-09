@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Education
+title: ekviky Education
 permalink: /cv/education/
 ---
 
