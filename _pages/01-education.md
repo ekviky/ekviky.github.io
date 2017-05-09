@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Education
-permalink: /cv/01-education/
+permalink: /cv/education/
 ---
 
 ## Education
