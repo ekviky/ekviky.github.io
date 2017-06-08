@@ -27,8 +27,8 @@ permalink: /cv/grants/
   
 ## Honors and Awards  
 2015  
->>* Wellcome Trust Centre for Human Genetics: Carer&#39;s Fund Award
->>* Society for Molecular Biology and Evolution: Childcare Travel Award	
+>>Wellcome Trust Centre for Human Genetics: Carer&#39;s Fund Award  
+>>Society for Molecular Biology and Evolution: Childcare Travel Award	
 
 2008
 >>* Jeanette Ritter Mohnkern Graduate Student Scholarship in Biology
