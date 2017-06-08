@@ -15,11 +15,15 @@ Montgomery S.B.\*, Goode D\*, **Kvikstad E**\*, Albers K, Zhang Z, Mu XJ, Ananda
 
 **Kvikstad E.M.**, Chiaromonte F., Makova K.D. (2009) [Ride the wavelet](http://genome.cshlp.org/content/19/7/1153.long): Scale specific dynamics of genomic contexts flanking small insertions and deletions. *Genome Research* 19: 1153-1164.  
 
-**Kvikstad E.M.**, Makova K.D. (2008) Rapid evolution of genes on the human X-chromosome. In: *Encyclopedia of Life Sciences. John Wiley & Sons, Ltd: Chichester.  
+**Kvikstad E.M.**, Makova K.D. (2008) Rapid evolution of genes on the human X-chromosome. In: *Encyclopedia of Life Sciences*. John Wiley & Sons, Ltd: Chichester.  
 
-**Kvikstad E.M.**, Tyekucheva S., Chiaromonte F., Makova K.D. (2007) [A macaque's-eye view]() of human insertions and deletions: Differences in mechanisms.  
+**Kvikstad E.M.**, Tyekucheva S., Chiaromonte F., Makova K.D. (2007) [A macaque's-eye view](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030176) of human insertions and deletions: Differences in mechanisms. *PLoS Comp Bio* 3(9): e176.  
 
- 
+Zhou S, Kile A, Bechner M, Place M, **Kvikstad E**, Deng W, Wei J, Severin J, Runnheim R, Churas C, Forrest D, Dimalanta ET, Lamers C, Burland V, Blattner FR, Schwartz DC. (2004) Single-molecule approach to bacterial genomic comparisons via optical mapping. *J Bacteriol*. 186(22): 7773-82. 
 
+Zhou S, Kile A, **Kvikstad E**, Bechner M, Severin J, Forrest D, Runnheim R, Churas C, Anantharaman TS, Myler P, Vogt C, Ivens A, Stuart K, Schwartz DC. (2004) Shotgun optical mapping of the entire *Leishmania major* Friedlin genome. *Mol Biochem Parasitol*. 138(1):97-106.  
 
+Zhou S, **Kvikstad E**, Kile A, Severin J, Forrest D, Runnheim R, Churas C, Hickman JW, Mackenzie C, Choudhary M, Donohue T, Kaplan S, Schwartz DC. (2003) Whole-genome shotgun optical mapping of *Rhodobacter sphaeroides* strain 2.4.1 and its use for whole genome shotgun sequence assembly. *Genome Research* 13(9): 2142-51.  
+
+Zhou S, Deng W, Anantharaman TS, Lim A, Dimalanta ET, Wang J, Wu T, Chunhong T, Creighton R, Kile A, **Kvikstad E**, Bechner M, Yen G, Garic-Stankovic A, Severin J, Forrest D, Runnheim R, Churas C, Lamers C, Perna NT, Burland V, Blattner FR, Mishra B, Schwartz DC. (2002) A Whole Genome Shotgun Optical Map of *Yersinia Pestis* Strain KIM. *Applied and Environmental Microbiology* 68: 6321-6331.  
 
