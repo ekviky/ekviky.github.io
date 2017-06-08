@@ -25,7 +25,27 @@ permalink: /cv/teach_experience/
 
 2010
 >>[Galaxy Demo](https://usegalaxy.org/u/kvik/p/prabi-demo)  
->>PRABI  
+>>Rhone-Alpes Bioinformatics Center [PRABI-Doua](http://doua.prabi.fr/main/index)  
 >>Université Claude Bernard Lyon 1  
 >>Instructor
 
+2009
+>>Evolution of Developmental Mechanisms  
+>>The Pennsylvania State University  
+>>Teaching Assistant  
+
+2008
+>>Molecular Evolution  
+>>The Pennsylvania State University  
+>>Teaching Assistant  
+
+2006-2008
+>>\"Evolution of Sex Chromosomes\"  
+>>Molecular Evolution  
+>>The Pennsylvania State University  
+>>Guest Lecturer  
+
+2005
+>>3rd Bioinformatics Workshop  
+>>The Pennsylvania State University  
+>>Teaching Assistant
