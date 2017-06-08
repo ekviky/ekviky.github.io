@@ -13,7 +13,7 @@ permalink: /cv/teach_experience/
 >>Guest Lecturer  
 
 2014
->>Galaxy Demo  
+>>[Galaxy](https://usegalaxy.org/) Demo  
 >>Wellcome Trust Centre for Human Genetics  
 >>University of Oxford  
 >>Instructor  
