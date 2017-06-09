@@ -51,13 +51,12 @@ ul.posts li {
 	line-height: 1em;		
 }
 
-contacts li  {
+contacts ul li  {
 	font-family:'Helvetica', 'Arial', 'Sans-Serif';
 	font-weight: bold;
 	font-size: 1.5em;
 	line-height: 1em;
 }
-
 
 .cv { margin: 0px 0px 60px; }
 .cv h1 { font-size: 3em; }
