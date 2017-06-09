@@ -20,13 +20,17 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+	font-size: 3em;
+	font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+h2 {
+	font-size: 2em;
+
 }
 p {
-    font-size: 1.5em;
-    line-height: 1.4em;
-    color: #333;
+	font-size: 1.5em;
+	line-height: 1.4em;
+	color: #333;
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -41,4 +45,10 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.cv { margin: 0px 0px 60px; }
+.cv h1 { font-size: 3em; }
+.cv h2 { font-size: 2em; }
+.cv address, .cv .download { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
+.cv address, .cv p { font-size: 1.2em; }
 .cv .download { float: right; font-size: .8em; text-transform: uppercase; }
