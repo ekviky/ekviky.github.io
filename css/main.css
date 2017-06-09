@@ -47,7 +47,8 @@ ul.posts li {
 }
 
 .post p {
-	font-size: 1.2em;
+	font-size: 1.5em;
+	line-height: 1em;		
 }
 
 .cv { margin: 0px 0px 60px; }
