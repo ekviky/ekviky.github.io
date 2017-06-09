@@ -7,6 +7,13 @@ permalink: /cv/presentations/
 # Presentations  
 
 ## Invited Seminars  
+2017
+* School of Biological Sciences  
+University of Canterbury, Christchurch, NZ  
+* Nevada Institute Personalized Medicine
+University of Nevada-Las Vegas, Nevada  
+
+
 
 ## Contributed Talks at Conferences and Meetings  
 
