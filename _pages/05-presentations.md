@@ -45,7 +45,9 @@ permalink: /cv/presentations/
 >>Centre Integratif de Genomique  
 >>University Lausanne, Switzerland  
 
+
 ## Contributed Talks at Conferences and Meetings  
+
 2014  
 >>Kvikstad E.M., Lunter G. A cost-effective screen for identifying novel transposable element insertions in human genomes. American Society for Human Genetics Annual Meeting: San Diego, CA, USA. October 2014.  
 
@@ -69,7 +71,33 @@ permalink: /cv/presentations/
 2006  
 >>Kvikstad E.M., Makova K.D. Contribution of insertion/deletion events to sex chromosome architecture as inferred from human-chimpanzee genomic alignments. Society for Molecular Biology and Evolution Annual Meeting: Tempe, AZ, USA. May 2006.  
 
-
-
 # Posters
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, ullam, praesentium, sapiente ipsum voluptatem at voluptas rerum quasi tempora nesciunt dignissimos necessitatibus sunt neque repellat temporibus fugiat magnam laboriosam a molestias ab! Laborum, tenetur, ut vitae quasi labore a earum quibusdam iusto. Cumque, ipsum, architecto dignissimos doloribus amet iste et minus tempore iure perspiciatis autem fugit laborum optio quis expedita repellendus aperiam aspernatur impedit illum sunt magnam odit dolorum quo laudantium reprehenderit temporibus rerum vero est rem cum. Suscipit, atque, incidunt a ea deleniti commodi laborum enim quia ex quod nesciunt possimus sequi tempora obcaecati perferendis ducimus aperiam pariatur sunt.
+2015  
+>>Kvikstad E.M., Lunter G. Towards quantifying the disease impact of transposable element (TE) insertions in humans. EMBO/EMBL Symposium “The Mobile Genome: Genetic and physiological impacts of transposable elements”: Heidelberg, Germany. September 2015.  
+
+>>Kvikstad E.M., Lunter G. A cost-effective whole-genome screen for identifying novel transposable element (TE) insertions. Society for Molecular Biology and Evolution Annual Meeting 2015: Vienna, Austria. July 2015.  
+
+2012  
+>>Kvikstad E.M., Duret L. Indels and the evolution of genome architecture. Society for Molecular Biology and Evolution Annual Meeting 2012: Dublin, Ireland. June 2012.  
+
+2011  
+>>Kvikstad E.M., Duret L., 1000 Genomes Consortium Indel Analysis Subgroup. Born this way: Insertions and deletions are equally deleterious. The EMBO Meeting: Vienna, Austria. September 2011.  
+
+>>Kvikstad E.M., Duret L., 1000 Genomes Consortium Indel Analysis Subgroup. Born this way: Insertions and deletions are equally deleterious. The Biology of Genomes: Cold Spring Harbor Laboratory, NY, USA. May 2011.  
+
+2008  
+>>Kvikstad E.M., Chiaromonte, F., Makova K.D. Ride the wavelet: Scale specific dynamics of genomic contexts flanking small insertions and deletions. Society for Molecular Biology and Evolution 2008: Barcelona, Spain. June 2008.  
+
+>>Kvikstad E.M., Chiaromonte, F., Makova K.D. Ride the wavelet: Scale specific dynamics of genomic contexts flanking small insertions and deletions. The Biology of Genomes: Cold Spring Harbor Laboratory, NY, USA. May 2008.  
+
+2007  
+>>Kvikstad E.M., Tyekucheva, S., Chiaromonte, F., Makova K.D. A macaque’s- eye view of human insertions and deletions: Regional rate variation and mechanisms of mutagenesis. The Biology of Genomes: Cold Spring Harbor Laboratory, NY, USA. May 2007.  
+
+2006  
+>>Kvikstad E.M., Makova K.D. Contribution of insertion/deletion events to sex chromosome architecture as inferred from human-chimpanzee genomic alignments. The Biology of Genomes: Cold Spring Harbor Laboratory, NY, USA. May 2006.  
+
+>>Kvikstad E.M., Makova K.D. Contribution of insertion/deletion events to sex chromosome architecture as inferred from human-chimpanzee genomic alignments. The Pennsylvania State University Genetics Symposium 2006: The Pennsylvania State University-Research Park, PA, USA. April 2006.  
+
+2004  
+>>Goetting-Minesky P, Kvikstad E, Makova K. Male mutation bias in Perissodactyla and Cetacea. Society for Molecular Biology and Evolution Annual Meeting 2004: The Pennsylvania State University-Research Park, PA, USA. June 2004.  
+
