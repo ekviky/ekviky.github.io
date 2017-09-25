@@ -25,7 +25,13 @@
 	    		<ul>
 	        		<li><a href="mailto:erika[dot]kvikstad[at]well.ox.ac.uk">email</a></li>
 	        		<li><a href="https://github.com/ekviky">github.com/ekviky</a></li>
-				</ul>
+				{% if site.github_username %}
+				<li>
+				     <a href="https://github.com/{{ site.github_username }}">
+					     <i class="fa fa-github"></i> GitHub
+				      </a>
+			      </li>
+			</ul>
 			</footer>
 		</body>
 	</html>
