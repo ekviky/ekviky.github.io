@@ -3,4 +3,4 @@ markdown: kramdown
 
 include: ['_pages']
 
-github username: ekviky
+github_username: ekviky
