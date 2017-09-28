@@ -64,3 +64,25 @@ ul.posts li {
 .cv address, .cv .download { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
 .cv address, .cv p { font-size: 1.2em; }
 .cv .download { float: right; font-size: .8em; text-transform: uppercase; }
+
+.post nav ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+    position: fixed; /* Make it stick, even on scroll */
+    overflow: auto; /* Enable scrolling if the sidenav has too much content */
+}
+
+.post nav ul li {
+    display: block;
+    margin-right: 20px;
+}
+.post nav ul li a {
+    text-decoration: none;
+    color: #999;
+}
+.post nav ul li a:hover {
+    background-color: #555;
+    color: white;
+}
