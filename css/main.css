@@ -89,3 +89,10 @@ ul.posts li {
     background-color: #555;
     color: white;
 }
+
+.post body {
+    /*margin: 60px auto;*/
+    /*margin: 20px auto 40px;*/
+    margin-left: 25%;
+    width: 70%;
+}
