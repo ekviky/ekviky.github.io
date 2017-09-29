@@ -6,7 +6,7 @@ permalink: /cv/publications/
 
 # Publications 
 
-<ul class="contacts">
+<ul class="pubs">
 <li><a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=Kvikstad+E">
 	<i class="ai ai-pubmed-square" ai-3x aria-hidden="true"></i> Pubmed
 </a></li>
