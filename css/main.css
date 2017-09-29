@@ -80,7 +80,7 @@ ul.posts li {
 
 .post nav ul li {
     display: block;
-    padding: 8px 16px;
+    /*padding: 8px 16px;*/
 }
 .post nav ul li a {
     text-decoration: none;
