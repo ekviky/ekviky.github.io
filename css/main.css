@@ -73,6 +73,7 @@ ul.posts li {
     width: 25%;
     list-style: none;
     font-weight: bold;
+    font-size: 2em; 
     position: fixed; /* Make it stick, even on scroll */
     overflow: auto; /* Enable scrolling if the sidenav has too much content */
 }
@@ -93,6 +94,7 @@ ul.posts li {
 .post body {
     /*margin: 60px auto;*/
     /*margin: 20px auto 40px;*/
+    margin: 0;	
     margin-left: 25%;
     width: 70%;
 }
