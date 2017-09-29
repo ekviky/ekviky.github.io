@@ -6,6 +6,17 @@ permalink: /cv/publications/
 
 # Publications 
 
+<ul class="contacts">
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=Kvikstad+E">
+	<i class="ai ai-pubmed-square" ai-3x aria-hidden="true"></i> Pubmed
+</a></li>
+<li><a href="https://scholar.google.co.uk/citations?user=uMVdpNsAAAAJ&hl=en&oi=ao">
+	<i class="ai ai-google-scholar-square" ai-3x aria-hidden="true"></i> Google Scholar
+</a></li>
+<li><a href="https://orcid.org/0000-0002-2730-4472" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-2730-4472</a></li>
+</ul>
+
+
 **Kvikstad E.M.**, Piazza P., Taylor J.C., Lunter, G. (2017) [A high throughput screen](https://www.biorxiv.org/content/early/2017/09/22/192708) for active human transposable elements. bioRxiv doi: 10.1101/192708.  
 
 **Kvikstad E.M.**, Duret L. (2014) [Strong heterogeneity](https://academic.oup.com/mbe/article-lookup/doi/10.1093/molbev/mst185) in mutation rate causes misleading hallmarks of natural selection on indel mutations. *Molecular Biology and Evolution* 31(1):23-36.  
