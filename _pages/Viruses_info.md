@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ekviky indels
+title: ekviky viruses
 permalink: /projects/viruses
 ---
 # Viral integrations  
