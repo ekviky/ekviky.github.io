@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: ekviky TEs 
 permalink: /projects/TEs/
 ---
