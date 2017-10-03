@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ekviky viruses
-permalink: /projects/viruses
+permalink: /projects/viruses/
 ---
 # Viral integrations  
 
