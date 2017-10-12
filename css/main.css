@@ -110,7 +110,7 @@ ul.posts li {
 .dropdown {
     position: relative;
     display: inline-block;
-    padding: 30px 15px;
+    padding: 30px 5px;
 }
 
 .dropdown-content {
