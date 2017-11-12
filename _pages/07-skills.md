@@ -6,14 +6,15 @@ permalink: /cv/skills/
 
 # Skills
 
-## Interests
+## Time
  <img src="/images/skills_time.png" alt="How I spend my time" style="width:75%;height:75%"> 
 ## Languages
  <img src="/images/skills_languages.png" alt="What I do" style="width:75%;height:75%">
+
 ## Tools
 
-|:Topic          |Tool/Resource|
-|----------------|------------:|
+|Topic          |Tool/Resource|
+|:----------------|------------:|
 |Genomics        |Bedtools <br/> Samtools <br/> Picard <br/> Galaxy <br/> EMBOSS|
 |Alignment       |BWA <br/> CLUSTALW <br/> MUSCLE <br/> BLAST|
 |Variant analysis|VEP <br/> VCFtools <br/> BCFtools <br/> Wuxi NEXTCode <br/> Omicia <br/> CADD <br/> SIFT <br/> Polyphen|
