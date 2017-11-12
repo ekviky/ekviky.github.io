@@ -14,7 +14,7 @@ permalink: /cv/skills/
 ## Tools 
 <div class="table">
 
-|---  
+|--- 
 |Topic          |Tool/Resource| 
 |:----------------|------------:| 
 |-------------------------------| 
@@ -24,12 +24,12 @@ permalink: /cv/skills/
 |-------------------------------| 
 |Variant analysis|VEP <br/> VCFtools <br/> BCFtools <br/> Wuxi NEXTCode <br/> Omicia <br/> CADD <br/> SIFT <br/> Polyphen| 
 |-------------------------------| 
-|Evolution       |PAML <br/> HyPHY <br/> MEGA| 
+|Evolution       |PAML <br/> HyPHY <br/> MEGA|
+|-------------------------------|
+|Population <br/>genetics|Plink|
 |-------------------------------| 
-|Population <br/>genetics|Plink| 
-|-------------------------------|  
 |Databases|UCSC Table Browser <br/> ExAC <br/> 1K Genomes <br/> Repbase <br/> RepeatMasker <br/> DGV <br/> ENCODE <br/> dbSNP <br/> dbGaP <br/> dbVar| 
-|===  
+|===
 
 </div>
 
