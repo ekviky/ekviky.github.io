@@ -13,7 +13,8 @@ permalink: /cv/skills/
 
 ## Tools 
 <table>
-|--- 
+
+|---  
 |Topic          |Tool/Resource| 
 |:----------------|------------:| 
 |-------------------------------| 
@@ -29,6 +30,7 @@ permalink: /cv/skills/
 |-------------------------------|  
 |Databases|UCSC Table Browser <br/> ExAC <br/> 1K Genomes <br/> Repbase <br/> RepeatMasker <br/> DGV <br/> ENCODE <br/> dbSNP <br/> dbGaP <br/> dbVar| 
 |===  
+
 </table>
 
 
