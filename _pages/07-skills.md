@@ -12,12 +12,7 @@ permalink: /cv/skills/
  <img src="/images/skills_languages.png" alt="What I do" style="width:50%;height:50%">
 ## Tools
 
-|Topic|Tool/Resource|
-|--------|---------:|
-|Genomics|Bedtools
-	  Samtools
-	  Picard
-	  Galaxy
-	  EMBOSS
-|        |              |
+|Topic   |Tool/Resource|
+|--------|------------:|
+|Genomics|Bedtools <br/> Samtools <br/> Picard <br/> Galaxy <br/> EMBOSS|
 
