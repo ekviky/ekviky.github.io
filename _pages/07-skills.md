@@ -6,8 +6,8 @@ permalink: /cv/skills/
 
 # Skills
 
-## Time
- <img src="/images/skills_time.png" alt="How I spend my time" style="width:300px;height:231px;"> 
+## Interests
+ <img src="/images/skills_time.png" alt="How I spend my time" style="width:50%;height:50%"> 
 ## Languages
- <img src="/images/skills_languages.png" alt="What I do" style="width:300px;height:231px;">
+ <img src="/images/skills_languages.png" alt="What I do" style="width:50%;height:50%">
 ## Tools
