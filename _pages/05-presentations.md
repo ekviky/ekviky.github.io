@@ -25,7 +25,7 @@ permalink: /cv/presentations/
 >>Analytic and Translational Genetics Unit  
 >>Massachusetts General Hospital, USA  
 
->>Center for Medical Genomics  
+>>[Center for Medical Genomics](http://www.bx.psu.edu/ctr_med_genom/)
 >>The Pennsylvania State University, USA  
 
 >>Department of Genetics  
