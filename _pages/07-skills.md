@@ -12,7 +12,6 @@ permalink: /cv/skills/
  <img src="/images/skills_languages.png" alt="What I do" style="width:75%;height:75%">
 
 ## Tools 
-<div class="table">
 
 |--- 
 |Topic          |Tool/Resource| 
@@ -30,7 +29,4 @@ permalink: /cv/skills/
 |-------------------------------| 
 |Databases|UCSC Table Browser <br/> ExAC <br/> 1K Genomes <br/> Repbase <br/> RepeatMasker <br/> DGV <br/> ENCODE <br/> dbSNP <br/> dbGaP <br/> dbVar| 
 |===
-
-</div>
-
 
