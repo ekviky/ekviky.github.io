@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: project
 title: ekviky tools
 permalink: /projects/tools/
 ---
-# Clinical-NGS tools 
+# genomics/NGS tools 
 
-Some scripts and pipelines useful for clinical WGS
+Some scripts and useful pipelines 
