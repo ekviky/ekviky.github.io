@@ -14,4 +14,5 @@ Indel mutation rates are also [context dependent](http://genome.cshlp.org/conten
 
 Availability of population-scale data in 1000 Genomes Project helped us to demonstrate that indel [population frequencies](http://genome.cshlp.org/content/23/5/749.long) have been influenced by selective constraint, revealing the underlying genomic functions of regions such as genes, and potentially functional non-coding conserved regions that impact individual phenotypes.  
 
-Patterns of indel mutation and fixation dynamics provide clues to [cryptic indel hotspots](https://academic.oup.com/mbe/article-lookup/doi/10.1093/molbev/mst185) that can even mimic signatures of natural selection.  
+Patterns of indel mutation and fixation dynamics provide clues to [cryptic indel hotspots](https://academic.oup.com/mbe/article-lookup/doi/10.1093/molbev/mst185) existing outside of known hotspot contexts like microsatellites and short tandem repeats. We showed that cryptic hotspots can even mimic signatures of natural selection, widely used to infer functional from non-coding DNA and disease-conferring from neutral loci.  
+
