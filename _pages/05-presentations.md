@@ -8,11 +8,11 @@ permalink: /cv/presentations/
 
 ## Invited Seminars  
 2018
->>>Translational Bioinformatics  
->>>Bristol-Myers Squibb, USA  
+>>Translational Bioinformatics  
+>>Bristol-Myers Squibb, USA  
 
->>>Leonard Davis School of Gerontology  
->>>University of Southern California, USA  
+>>Leonard Davis School of Gerontology  
+>>University of Southern California, USA  
 
 2017  
 >>School of Biological Sciences  
