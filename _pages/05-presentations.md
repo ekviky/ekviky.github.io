@@ -52,7 +52,7 @@ permalink: /cv/presentations/
 >>Centre Integratif de Genomique  
 >>University Lausanne, Switzerland  
 
-
+---
 ## Contributed Talks at Conferences and Meetings  
 
 2014  
@@ -78,7 +78,8 @@ permalink: /cv/presentations/
 2006  
 >>Kvikstad E.M., Makova K.D. Contribution of insertion/deletion events to sex chromosome architecture as inferred from human-chimpanzee genomic alignments. Society for Molecular Biology and Evolution Annual Meeting: Tempe, AZ, USA. May 2006.  
 
-# Posters
+---
+## Posters  
 2015  
 >>Kvikstad E.M., Lunter G. Towards quantifying the disease impact of transposable element (TE) insertions in humans. EMBO/EMBL Symposium “The Mobile Genome: Genetic and physiological impacts of transposable elements”: Heidelberg, Germany. September 2015.  
 
