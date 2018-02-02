@@ -26,6 +26,10 @@ permalink: /cv/publications/
 Montgomery S.B.\*, Goode D\*, **Kvikstad E**\*, Albers K, Zhang Z, Mu XJ, Ananda G, Howie B, The 1000 Genomes Pilot Project Consortium, Sidow A, Duret L, Gerstein M, Makova K, Marchini J, McVean G, Lunter G. (2013) [The origin, evolution, and functional impact](http://genome.cshlp.org/content/23/5/749.long) of short insertion-deletion variants identified in 179 human genomes. *Genome Research* 23(5): 749-61. \* joint first authors  
 
 **Kvikstad E.M.**, Makova K.D. (2010) [The (r)evolution](http://genome.cshlp.org/content/20/5/600.long) of SINE vs. LINE distributions in primate genomes: Sex chromosomes are important. *Genome Research* 20: 600-613. **featured cover**  
+<a href="http://genome.cshlp.org/content/20/5.cover-expansion">
+<img src="http://genome.cshlp.org/content/20/5/F1.medium.gif">
+</a>
+
 
 **Kvikstad E.M.**, Chiaromonte F., Makova K.D. (2009) [Ride the wavelet](http://genome.cshlp.org/content/19/7/1153.long): Scale specific dynamics of genomic contexts flanking small insertions and deletions. *Genome Research* 19: 1153-1164.  
 
