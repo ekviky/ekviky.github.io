@@ -19,6 +19,10 @@ permalink: /cv/publications/
 
 **Kvikstad E.M.**, Piazza P., Taylor J.C., Lunter, G. (2017) [A high throughput screen](https://www.biorxiv.org/content/early/2017/09/22/192708) for active human transposable elements. bioRxiv doi: 10.1101/192708.  
 
+<li><a href="https://www.biorxiv.org/content/early/2017/09/22/192708">
+        <i class="ai ai-biorxiv-square" ai-3x aria-hidden="true"></i> bioRxiv
+</a></li>
+
 **Kvikstad E.M.**, Duret L. (2014) [Strong heterogeneity](https://academic.oup.com/mbe/article-lookup/doi/10.1093/molbev/mst185) in mutation rate causes misleading hallmarks of natural selection on indel mutations. *Molecular Biology and Evolution* 31(1):23-36.  
 
 **Kvikstad E.M.**, Makova K.D. (2013) [Rapid evolution](http://onlinelibrary.wiley.com/doi/10.1002/9780470015902.a0020858.pub2/abstract?userIsAuthenticated=false&deniedAccessCustomisedMessage=) of genes on the human X-chromosome version 2.0. In: *Encyclopedia of Life Sciences*. John Wiley & Sons, Ltd: Chichester.  
