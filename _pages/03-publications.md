@@ -38,6 +38,7 @@ Montgomery S.B.\*, Goode D\*, **Kvikstad E**\*, Albers K, Zhang Z, Mu XJ, Ananda
 <img src="http://genome.cshlp.org/content/20/5/F1.medium.gif">
 </a>
 
+<div data-badge-popover="right" data-badge-type="medium-donut" data-doi="10.1101/gr.099044.109 " data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 **Kvikstad E.M.**, Chiaromonte F., Makova K.D. (2009) [Ride the wavelet](http://genome.cshlp.org/content/19/7/1153.long): Scale specific dynamics of genomic contexts flanking small insertions and deletions. *Genome Research* 19: 1153-1164.  
 
