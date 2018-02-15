@@ -26,7 +26,7 @@ Anna Schuh, Helene Dreau, Samantha JL Knight, Rosanna T Mizani, Richard Colling,
 
 <div style="float:left;padding: 0 20px 20px 0;">
 <a href="https://www.biorxiv.org/content/early/2017/09/22/192708">
-	<i class="ai ai-biorxiv-square" ai-3x aria-hidden="true"></i> bioRxiv
+	<i class="ai ai-biorxiv-square" ai-4x aria-hidden="true"></i> bioRxiv
 </a></div>
 **Kvikstad E.M.**, Piazza P., Taylor J.C., Lunter, G. (2017) A high throughput screen for active human transposable elements. bioRxiv doi: 10.1101/192708.
 
