@@ -21,7 +21,7 @@ Anna Schuh, Helene Dreau, Samantha JL Knight, Rosanna T Mizani, Richard Colling,
 
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<div style="float:left" "padding: 0 20px 20px 0"; class="altmetric-embed" data-badge-type="donut" data-altmetric-id="32562055">&nbsp;</div>
+<div style="float:left;padding: 0 20px 20px 0;" class="altmetric-embed" data-badge-type="donut" data-altmetric-id="32562055">&nbsp;</div>
 **Kvikstad, E.M.**, Piazza, P., Taylor, J.C., Lunter, G. (2018) [A high throughput screen](https://doi.org/10.1186/s12864-018-4485-4) for active human transposable elements. *BMC Genomics* 19: 115.   
 
 
