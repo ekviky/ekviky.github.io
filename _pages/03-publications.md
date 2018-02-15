@@ -18,13 +18,17 @@ permalink: /cv/publications/
 
 
 **Kvikstad, E.M.**, Piazza, P., Taylor, J.C., Lunter, G. (2018) [A high throughput screen](https://doi.org/10.1186/s12864-018-4485-4) for active human transposable elements. *BMC Genomics* 19: 115.   
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="32562055">&nbsp;</div>
+
+
+**Kvikstad E.M.**, Piazza P., Taylor J.C., Lunter, G. (2017) A high throughput screen for active human transposable elements. bioRxiv doi: 10.1101/192708.
 <ul class="pubs">
 <li><a href="https://www.biorxiv.org/content/early/2017/09/22/192708">
         <i class="ai ai-biorxiv-square" ai-3x aria-hidden="true"></i> bioRxiv
 </a></li>
 </ul>
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="32562055">&nbsp;</div>
+
 
 **Kvikstad E.M.**, Duret L. (2014) [Strong heterogeneity](https://academic.oup.com/mbe/article-lookup/doi/10.1093/molbev/mst185) in mutation rate causes misleading hallmarks of natural selection on indel mutations. *Molecular Biology and Evolution* 31(1):23-36.  
 
