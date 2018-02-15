@@ -17,6 +17,9 @@ permalink: /cv/publications/
 </ul>
 
 
+Anna Schuh, Helene Dreau, Samantha JL Knight, Rosanna T Mizani, Richard Colling, Dimitris Vavoulis, Kate Ridout, Pavlos Antoniou, **Erika M. Kvikstad**, Melissa M. Pentony, Angela Hamblin, Andrew Protheroe, Marina Parton, Ketan A Shah, Orosz Zsolt, Nick Athanasou, Bass Hassan, Adrienne M Flanagan, Ahmed Ahmed, Stuart Winter, Adrian Harris, I Tomlinson, Niko Popitsch, David Church, Jenny C Taylor. (2018) Whole Genome Sequencing reveals clinically actionable mutation profiles in patients with cancer. *Molecular Case Studies* (accepted).  
+
+
 **Kvikstad, E.M.**, Piazza, P., Taylor, J.C., Lunter, G. (2018) [A high throughput screen](https://doi.org/10.1186/s12864-018-4485-4) for active human transposable elements. *BMC Genomics* 19: 115.   
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="32562055">&nbsp;</div>
