@@ -16,6 +16,7 @@ permalink: /cv/publications/
 <li><a href="https://orcid.org/0000-0002-2730-4472" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-2730-4472</a></li>
 </ul>
 
+New lessons from an old gene: complex splicing and a novel cryptic exon in VHL gene cause erythrocytosis and VHL disease *Blood* (submitted).
 
 Anna Schuh, Helene Dreau, Samantha JL Knight, Rosanna T Mizani, Richard Colling, Dimitris Vavoulis, Kate Ridout, Pavlos Antoniou, **Erika M. Kvikstad**, Melissa M. Pentony, Angela Hamblin, Andrew Protheroe, Marina Parton, Ketan A Shah, Orosz Zsolt, Nick Athanasou, Bass Hassan, Adrienne M Flanagan, Ahmed Ahmed, Stuart Winter, Adrian Harris, I Tomlinson, Niko Popitsch, David Church, Jenny C Taylor. (2018) Whole Genome Sequencing reveals clinically actionable mutation profiles in patients with cancer. *Molecular Case Studies* (accepted).  
 
